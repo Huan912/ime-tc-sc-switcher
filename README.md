@@ -25,7 +25,7 @@
 
 ### 方法一:直接下載預編譯版本
 
-至本專案的 [Releases](../../releases) 頁面下載 `ime-tc-sc-switcher.exe`，直接雙擊執行即可。
+至本專案的 [Releases](../../releases) 頁面下載 `ime-tc-sc-switcher.zip`，解壓縮後直接雙擊執行即可。
 
 ### 方法二:從原始碼建置
 
