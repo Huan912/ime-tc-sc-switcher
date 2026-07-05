@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ime-tc-sc-switcher/ime-tc-sc-switcher.vcxproj" Id="681a733b-823b-4093-a560-80e417d135fe" />
+</Solution>
