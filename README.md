@@ -29,8 +29,6 @@
 
 ### 方法二:從原始碼建置
 
-見下方[從原始碼建置](#從原始碼建置)章節。
-
 ### 讓它開機自動啟動
 
 按 <kbd>Win</kbd>+<kbd>R</kbd> 輸入 `shell:startup` 開啟「啟動」資料夾,把 `ime-tc-sc-switcher.exe` 的捷徑放進去即可。
